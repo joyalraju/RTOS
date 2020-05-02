@@ -1,0 +1,5 @@
+mutex.c:37:13:prvSetupHardware	8	static
+mutex.c:47:13:vLEDTask1	16	static
+mutex.c:60:13:vLEDTask2	16	static
+mutex.c:73:13:vLEDTask3	16	static
+mutex.c:95:5:main	24	static

@@ -1,0 +1,5 @@
+critical.c:4:13:prvSetupHardware	8	static
+critical.c:13:13:vLEDTask1	16	static
+critical.c:24:13:vLEDTask2	16	static
+critical.c:39:13:vLEDTask3	16	static
+critical.c:52:5:main	24	static
