@@ -1,2 +1,2 @@
 # RTOS
-RTOS based LPC 1769 coding projects
+RTOS based LPC 1769 coding projects using MCUXpresso
